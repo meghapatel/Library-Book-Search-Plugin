@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-facing functionality should be
+ * included in this file.
+ */
+
+.welcome-panel .multidots-about-description {
+	margin:20px;
+	font-size:18px;
+}

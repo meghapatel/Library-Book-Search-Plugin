@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.checked {
+    color: orange;
+}
+#ex6SliderMin {
+	padding-right:15px;
+}
+#ex6SliderMax{
+	padding-left:15px;
+}
